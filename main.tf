@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "test" {
-  name     = "testResourceGroup1"
+  name     = "claudioResourceGroup"
   location = "West US"
 
   tags = {
